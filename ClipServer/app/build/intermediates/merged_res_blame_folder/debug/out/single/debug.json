@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/raw_cinematic.mp3.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/raw/cinematic.mp3"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/raw_dropit.mp3.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/raw/dropit.mp3"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/raw_milkshake.mp3.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/raw/milkshake.mp3"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/raw_bounce.mp3.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/raw/bounce.mp3"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/raw_lifelike.mp3.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/raw/lifelike.mp3"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-merged_res-9:/layout_activity_key_generator.xml.flat",
+        "source": "course.examples.Services.KeyService.app-main-11:/layout/activity_key_generator.xml"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/raw_guitar.mp3.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/raw/guitar.mp3"
+    },
+    {
+        "merged": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-merged_res-9:/layout_activity_key_generator.xml.flat",
+        "source": "/Users/karanshah/.gradle/daemon/7.4/course.examples.Services.KeyService.app-main-11:/layout/activity_key_generator.xml"
+    }
+]

@@ -1,0 +1,34 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.examples.Services.KeyClient.test" >
+4
+5    <uses-sdk
+5-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:5:5-74
+6        android:minSdkVersion="26"
+6-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:5:15-41
+7        android:targetSdkVersion="33" />
+7-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:11:5-15:84
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:13:22-53
+13        android:label="Tests for course.examples.Services.KeyClient"
+13-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:15:22-82
+14        android:targetPackage="course.examples.Services.KeyClient" />
+14-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:12:22-80
+15
+16    <application
+16-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:7:5-9:19
+17        android:debuggable="true"
+18        android:extractNativeLibs="false" >
+19        <uses-library android:name="android.test.runner" />
+19-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:8:9-60
+19-->/Users/karanshah/Downloads/AudioClient/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest12654965675768664831.xml:8:23-57
+20    </application>
+21
+22</manifest>

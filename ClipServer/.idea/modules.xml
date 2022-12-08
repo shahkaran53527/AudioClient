@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClipServer.iml" filepath="$PROJECT_DIR$/.idea/modules/ClipServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClipServer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClipServer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClipServer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClipServer.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClipServer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClipServer.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ClipServer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ClipServer.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

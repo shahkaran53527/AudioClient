@@ -1,0 +1,7 @@
+course.examples.Services.KeyClient.test.app-androidTest-0 /Users/karanshah/Downloads/AudioClient/app/build/generated/res/resValues/androidTest/debug
+course.examples.Services.KeyClient.test.app-androidTest-1 /Users/karanshah/Downloads/AudioClient/app/build/generated/res/rs/androidTest/debug
+course.examples.Services.KeyClient.test.app-mergeDebugAndroidTestResources-2 /Users/karanshah/Downloads/AudioClient/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+course.examples.Services.KeyClient.test.app-mergeDebugAndroidTestResources-3 /Users/karanshah/Downloads/AudioClient/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+course.examples.Services.KeyClient.test.app-merged_res-4 /Users/karanshah/Downloads/AudioClient/app/build/intermediates/merged_res/debugAndroidTest
+course.examples.Services.KeyClient.test.app-androidTest-5 /Users/karanshah/Downloads/AudioClient/app/src/androidTest/res
+course.examples.Services.KeyClient.test.app-androidTestDebug-6 /Users/karanshah/Downloads/AudioClient/app/src/androidTestDebug/res
